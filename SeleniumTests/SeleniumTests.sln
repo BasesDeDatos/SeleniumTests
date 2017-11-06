@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27004.2006
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTests", "UnitTestProject1\SeleniumTests.csproj", "{FB7750DD-4CC3-471A-9BB9-ECA511C4BFC8}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SeleniumTests", "SeleniumTests\SeleniumTests.csproj", "{FB7750DD-4CC3-471A-9BB9-ECA511C4BFC8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -20,6 +20,6 @@ Global
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {F398DD65-77FD-4F35-9D16-D847C22C079E}
+		SolutionGuid = {3F654A6D-BF3D-47F7-B0DE-28F3E30B7E4B}
 	EndGlobalSection
 EndGlobal
