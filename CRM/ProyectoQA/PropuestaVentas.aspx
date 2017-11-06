@@ -58,7 +58,7 @@
 </asp:Content>
 <asp:Content ID="Content3" ContentPlaceHolderID="ContentPlaceHolder4" runat="server">
     <li>
-        <a href="#">
+        <a href="#" id="RegistroPropuestaModalMobile">
             <i class=""
                 data-toggle="modal" data-target="#mymodal">Agregar propuesta</i>
         </a>
@@ -66,7 +66,7 @@
 </asp:Content>
 <asp:Content ID="Content4" ContentPlaceHolderID="ContentPlaceHolder3" runat="server">
     <li class="dropdown">
-        <a href="#">
+        <a href="#" id="RegistroPersonaModal">
             <i class="pe-7s-plus"
                 data-toggle="modal" data-target="#mymodal"></i>
         </a>
